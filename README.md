@@ -60,12 +60,11 @@ No need to clone this project since it is just acting as a storage.
 
 Response json should be as below:
  ```json
-{
+
     {
       "value1": 2,
       "value2": 1,
     }
-}
 
 ```
 
